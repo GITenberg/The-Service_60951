@@ -1,0 +1,26 @@
+_repo: The-Service_60951
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Service'
+gutenberg_issued: '2019-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: The Service
+url: http://www.gutenberg.org/ebooks/60951
